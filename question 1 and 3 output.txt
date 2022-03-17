@@ -1,0 +1,15 @@
+// Question 1 
+
+Output:
+bar
+bar
+undefined
+bar
+
+
+//Question 3
+A.122
+b.32
+C.02
+D.Not a number 
+E.Not a number
